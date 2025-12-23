@@ -1,0 +1,8 @@
+Sentinel OverWatch™
+© 2025 David W. Smith. All Rights Reserved.
+
+Sentinel OverWatch™ is a policy-driven execution security control plane
+for AI systems.
+
+FASDTEST™ is a public validation harness and remains separate from this
+proprietary implementation.
